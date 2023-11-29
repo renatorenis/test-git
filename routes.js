@@ -1,3 +1,1 @@
-function router {
-    return function
-} satisfies (value)
+const express = require('express')
